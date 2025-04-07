@@ -1,0 +1,2032 @@
+fileFormatVersion: 2
+guid: d408fccb2cc0f9d45bc8e91276fd103d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesSheetKenney_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 391
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36271d6bd3cae994cb1c999465da1788
+      internalID: 1969165344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 389
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0882380419da14419909b84ae53b1d5
+      internalID: -815573079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 398
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2f1e2d6649c34f84bc27624c42297
+      internalID: 868215789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 398
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25674a6139ad7cd418c7bc5817fcb3ca
+      internalID: -1644694683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 391
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b25a5338793e4991aab24451146c5
+      internalID: -1548841559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 389
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ec11e4aef52046aaa00dd7d4a198b
+      internalID: -1700662061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 398
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86ac18c190c7945a527a8756f6b93f
+      internalID: -1591942350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 398
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1162f0d16a3ded4089985ff8baa60b7
+      internalID: -1298342995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 379
+        width: 191
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc39e501ce5fd4290d761ccb0b04d3
+      internalID: 965634656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 339
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7e04fea4756c47abdf89c335b4ff7
+      internalID: -1962746003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 337
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcd23f4ba0125459e221db60938259
+      internalID: 1392397916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 346
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd93861ecfec544eab4646a64e68923
+      internalID: -348688952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 346
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d87c08aac519b4681448bd251c867f
+      internalID: -1037215315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 339
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635b2df9c323eb46bc20801333c1104
+      internalID: -1168124341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 337
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a58f35ce0f899479a836925eeb9ddd
+      internalID: -1404384328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 346
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de498f8af8903468c9757d873e22b1
+      internalID: -742810565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 346
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19308cc68759f5499e3ee1285d912a5
+      internalID: 2064660833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 319
+        width: 191
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8006910823ac4d8b239b06bf3a233
+      internalID: -1998532364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 287
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a30e63eca30884188a74c03834b770
+      internalID: -928557290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 285
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86195dc2ba796de4d9e1cdce0a17d187
+      internalID: 215575666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 294
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe07e19e7abbb748b15e1108d7a12c4
+      internalID: -1548481326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 294
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91fcada25760834f8b1a516d952f0a2
+      internalID: 357321277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 287
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f81c9fa7b3aa4d8b34651a777b8a5
+      internalID: -1831559374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 285
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b41d0f45c6bd4cbfe33925193d434
+      internalID: -906637787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 294
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39891224d41d5941a31a358230511dd
+      internalID: -391018659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 294
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d43ebd3f7d89840a399fb66be80bf1
+      internalID: 1450960533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 235
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa80259d683f441b43866c283372f2
+      internalID: 1176829715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aac311a04dc8241b60c07cc08cd40f
+      internalID: -1546254431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 235
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984c74c6e9d60a47894ec466269675a
+      internalID: -1196985822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 233
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d006c34ff911de04ca4ee77f1dbd0a18
+      internalID: 1632726715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_30
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 276
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc57b5c123d92f48ab094a5cd4270e3
+      internalID: -2063192352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 276
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b8646f518c02448b1085521e52036
+      internalID: -2020313472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 276
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d88d8beed72d48877953e6b622654
+      internalID: -1199863269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 242
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4651c3dd3fb074a99274f275ea4f3d
+      internalID: -1178480229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 242
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e619c947930548b310fbb9bc4a6e8
+      internalID: -957662531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_35
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 242
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747fd7f53b5c31b4294ce5427d070d4c
+      internalID: -1935991675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 242
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d251f78f8615514680476726e2a3d95
+      internalID: -1511525620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_37
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 259
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66133d4ec507894191c56bdf2ea6083
+      internalID: -1229450729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 259
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f5afa1ec3dad40b733b5849254dfb
+      internalID: -1621903872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_39
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 259
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c908c6921a7de64cb0869f4bdf0ba4b
+      internalID: 1383473202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_40
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400837547b73bfe4da5194cace08b9c8
+      internalID: 1591906286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_41
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac585a5d3fe50e4ebb11814c1cd9b4e
+      internalID: -21081994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_42
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f403ee85e19a4fbe8e175e825b60f
+      internalID: -1761314640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 183
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45832e465bf1d5d44ba939dc02a44d93
+      internalID: -1046920235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 181
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418834a80594b9459fc8a7bff099d28
+      internalID: -1684307564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 190
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56942d766d641ae42b2699a229a80488
+      internalID: -536219657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 190
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca58b9acc8c9d4fa6d3cd5fad3f4ec
+      internalID: 411025000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 183
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19349139a5afa41b3f97066696a930
+      internalID: 1697114177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 181
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca6b5f8436fab4c905cfafee899714
+      internalID: 739994048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 190
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321c4286471f284b9018d6b2443582b
+      internalID: 652789668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 190
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14840c9c5ad54d94882b8c80e2aed896
+      internalID: -748572690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_51
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87565d592034a044a932fc52f2a37cad
+      internalID: -1902106873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_52
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69948d75c557a724ab71af295a61aa25
+      internalID: -936899259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_53
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d1cd32b047ac4483aa8073a1ac979
+      internalID: -1583112058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_54
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 199
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b386efbe55ae488131f674840b880
+      internalID: 1966227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 199
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea1fa2948079540a0efa95ee22ec91
+      internalID: -1256058378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_56
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 199
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d2189b68d33a47b8984bd830aef6a
+      internalID: 1427667022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_57
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 181
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8897bab1b0994fb26bce2dd0dda6e
+      internalID: -1335803581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_58
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 181
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553b35a7bd34c694f8ea58b8e7676279
+      internalID: 118288471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_59
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 181
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0228fdb0bf006a4b9b1084c3c1cda2c
+      internalID: -1454754414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 131
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf066d0a0edfc458105f32fb0e6962
+      internalID: 1066937311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 129
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395c939fe74c5d4b98772fe8d7c8eee
+      internalID: 241990542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 138
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772730b4c0c466c47bb4a3da5018265e
+      internalID: -677213959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 138
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613797ece5244244bcad1e2e2c2ca89
+      internalID: -989977888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 131
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e2cb7dd5b95a4c88f3ad27631dc12
+      internalID: 404244487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 129
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e019b4e80fd04e4e913db4093abc13c
+      internalID: 563139827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_66
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 138
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55b68ae176bce489fc7959c85cc66e
+      internalID: 425159612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 138
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0913fe5ab1ee4b9288ce2a881d628
+      internalID: 1969264758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_68
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 115
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fad61bb83a3384ba4af370179eeb62
+      internalID: 42614063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_69
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 112
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17031690a37740c459d734f50b9176fc
+      internalID: -977780154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_70
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 113
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b68576ac3457d429d4f385496b35fd
+      internalID: -264807836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 110
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a369ef704c75a4493265ffff02b8cd
+      internalID: -1725240706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaddleRed
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 57
+        width: 105
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 0, z: 42, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f27af6f1c960b498373944d9f8e242
+      internalID: 1097460048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_73
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034ed98a70603645b861e885d5d13b9
+      internalID: -1458299155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_74
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 72
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825db89398529cb41a6c26b05c368d07
+      internalID: -39475847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_75
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 75
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cbb6f6495d0d749a76920105d2dc3e
+      internalID: 1972669310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_76
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 72
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0fcc1762662a14e8bee6d36dd8bc7f
+      internalID: -1271525795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_77
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 35
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab6acf17282f9343b10f5bb1804bd60
+      internalID: -32749187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 35
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fbeedb5b496f4aa8b13ff8227acc7
+      internalID: -77675325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b8cd7aba92104bbd5e82daf6ac5db
+      internalID: 1040344735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_80
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a740f9e32ec967439956b201d996055
+      internalID: -1473562225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_81
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd6b38b7bf0b1478c9e588b65e3c96
+      internalID: -1659641855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_82
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345908def081b04e9dccd2c864f66cf
+      internalID: -450671826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_83
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187851fd0b662bc4cb3d102ca7323f31
+      internalID: -1986538597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesSheetKenney_84
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 46
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15bd5200432404a9e5a1188703c5d3
+      internalID: -1507386637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaddleBlue
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 28
+        width: 105
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd07326d5fd29e46a49b87db6404d73
+      internalID: -2075482318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PaddleBlue: -2075482318
+      PaddleRed: 1097460048
+      SpritesSheetKenney_0: 1969165344
+      SpritesSheetKenney_1: -815573079
+      SpritesSheetKenney_10: 1392397916
+      SpritesSheetKenney_11: -348688952
+      SpritesSheetKenney_12: -1037215315
+      SpritesSheetKenney_13: -1168124341
+      SpritesSheetKenney_14: -1404384328
+      SpritesSheetKenney_15: -742810565
+      SpritesSheetKenney_16: 2064660833
+      SpritesSheetKenney_17: -1998532364
+      SpritesSheetKenney_18: -928557290
+      SpritesSheetKenney_19: 215575666
+      SpritesSheetKenney_2: 868215789
+      SpritesSheetKenney_20: -1548481326
+      SpritesSheetKenney_21: 357321277
+      SpritesSheetKenney_22: -1831559374
+      SpritesSheetKenney_23: -906637787
+      SpritesSheetKenney_24: -391018659
+      SpritesSheetKenney_25: 1450960533
+      SpritesSheetKenney_26: 1176829715
+      SpritesSheetKenney_27: -1546254431
+      SpritesSheetKenney_28: -1196985822
+      SpritesSheetKenney_29: 1632726715
+      SpritesSheetKenney_3: -1644694683
+      SpritesSheetKenney_30: -2063192352
+      SpritesSheetKenney_31: -2020313472
+      SpritesSheetKenney_32: -1199863269
+      SpritesSheetKenney_33: -1178480229
+      SpritesSheetKenney_34: -957662531
+      SpritesSheetKenney_35: -1935991675
+      SpritesSheetKenney_36: -1511525620
+      SpritesSheetKenney_37: -1229450729
+      SpritesSheetKenney_38: -1621903872
+      SpritesSheetKenney_39: 1383473202
+      SpritesSheetKenney_4: -1548841559
+      SpritesSheetKenney_40: 1591906286
+      SpritesSheetKenney_41: -21081994
+      SpritesSheetKenney_42: -1761314640
+      SpritesSheetKenney_43: -1046920235
+      SpritesSheetKenney_44: -1684307564
+      SpritesSheetKenney_45: -536219657
+      SpritesSheetKenney_46: 411025000
+      SpritesSheetKenney_47: 1697114177
+      SpritesSheetKenney_48: 739994048
+      SpritesSheetKenney_49: 652789668
+      SpritesSheetKenney_5: -1700662061
+      SpritesSheetKenney_50: -748572690
+      SpritesSheetKenney_51: -1902106873
+      SpritesSheetKenney_52: -936899259
+      SpritesSheetKenney_53: -1583112058
+      SpritesSheetKenney_54: 1966227063
+      SpritesSheetKenney_55: -1256058378
+      SpritesSheetKenney_56: 1427667022
+      SpritesSheetKenney_57: -1335803581
+      SpritesSheetKenney_58: 118288471
+      SpritesSheetKenney_59: -1454754414
+      SpritesSheetKenney_6: -1591942350
+      SpritesSheetKenney_60: 1066937311
+      SpritesSheetKenney_61: 241990542
+      SpritesSheetKenney_62: -677213959
+      SpritesSheetKenney_63: -989977888
+      SpritesSheetKenney_64: 404244487
+      SpritesSheetKenney_65: 563139827
+      SpritesSheetKenney_66: 425159612
+      SpritesSheetKenney_67: 1969264758
+      SpritesSheetKenney_68: 42614063
+      SpritesSheetKenney_69: -977780154
+      SpritesSheetKenney_7: -1298342995
+      SpritesSheetKenney_70: -264807836
+      SpritesSheetKenney_71: -1725240706
+      SpritesSheetKenney_73: -1458299155
+      SpritesSheetKenney_74: -39475847
+      SpritesSheetKenney_75: 1972669310
+      SpritesSheetKenney_76: -1271525795
+      SpritesSheetKenney_77: -32749187
+      SpritesSheetKenney_78: -77675325
+      SpritesSheetKenney_79: 1040344735
+      SpritesSheetKenney_8: 965634656
+      SpritesSheetKenney_80: -1473562225
+      SpritesSheetKenney_81: -1659641855
+      SpritesSheetKenney_82: -450671826
+      SpritesSheetKenney_83: -1986538597
+      SpritesSheetKenney_84: -1507386637
+      SpritesSheetKenney_9: -1962746003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
